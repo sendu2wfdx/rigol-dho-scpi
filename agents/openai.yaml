@@ -1,0 +1,4 @@
+interface:
+  display_name: "RIGOL DHO SCPI"
+  short_description: "通过 LAN 或 USBTMC 查询和控制 RIGOL DHO 示波器"
+  default_prompt: "Use $rigol-dho-scpi over LAN or USB to identify the connected oscilloscope and report its current acquisition state."
